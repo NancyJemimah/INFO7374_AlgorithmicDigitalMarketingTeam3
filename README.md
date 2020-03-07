@@ -2,9 +2,9 @@
 
 <h3> Assignment 1 </h3>
 
-Claat document link = 
+Claat document link = https://docs.google.com/document/d/1z_uAUdfdOyCci7mnQi2ljO8CcGDWvtnNvgYJBedd6Eg/edit?ts=5e2b6de0#heading=h.e1ncdhc1d8jf
 
-Codelabs Preview link =
+Codelabs Preview link = https://codelabs-preview.appspot.com/?file_id=1z_uAUdfdOyCci7mnQi2ljO8CcGDWvtnNvgYJBedd6Eg#0
 
 
 <h3> Assignment 2 </h3>
