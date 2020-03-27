@@ -1,7 +1,7 @@
-**SNACKBOX RECOMMENDATION SYSTEM
+# SNACKBOX RECOMMENDATION SYSTEM
 
 
-**Introduction to Recommender System
+# Introduction to Recommender System
 
 In this modern world we are overloaded with data and this data provides us the useful information. But it's not possible for the user to extract the information which interest them from these data. In order to help the user to find out information about the product , recommedation systems where developed.
 
