@@ -36,3 +36,9 @@ In this repository, we have covered stages till evaluation
 **Stage 2** - <a href = "https://github.com/NancyJemimah/INFO7374_AlgorithmicDigitalMarketingTeam3/tree/master/Assignment%204%20-%20Recommendation%20System/notebooks/02_model"> Model - FM/FFM </a> --> Our models are implemented using xlearn 
 
 **Stage 3** - <a href = "https://github.com/NancyJemimah/INFO7374_AlgorithmicDigitalMarketingTeam3/tree/master/Assignment%204%20-%20Recommendation%20System/notebooks/03_evaluate"> Evaluation Metrics </a> --> Notebooks discuss about various metrics used to evaluate the recommendation system 
+
+**Report Link** --> https://docs.google.com/document/d/1GVfmgDzT2O5c9bq6bB7PteKUJnCxw4R6JSxcEMjNBrk/edit#
+
+# Citations: 
+
+Modified and Recreated the code from this repository → <a href = "https://github.com/microsoft/recommenders"> Microsoft - Best Recommendation System Practices </a>
