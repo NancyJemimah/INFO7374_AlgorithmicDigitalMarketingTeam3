@@ -5,4 +5,4 @@ In this directory, notebooks are provided to demonstrate the use of content base
 
 | Notebook | Description | 
 | --- | --- | 
-| [ContentBasedFiltering](Content Based Filtering - Basic Approach.ipynb) | This notebook explains how the dataset is loaded to the dataframe, data preparation, creating a recommender enginer with the cosine similarity.
+| <a href =  "https://github.com/NancyJemimah/INFO7374_AlgorithmicDigitalMarketingTeam3/blob/master/Assignment%204%20-%20Recommendation%20System/notebooks/00_quick_start/Content%20Based%20Filtering%20-%20Basic%20Approach.ipynb"> Content Based Recommender </a> | This notebook explains how the dataset is loaded to the dataframe, data preparation, creating a recommender enginer with the cosine similarity.
