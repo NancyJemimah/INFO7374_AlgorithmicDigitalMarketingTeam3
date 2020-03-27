@@ -28,6 +28,7 @@ To setup on your local machine:
   4. Deploy it in production
   
 In this repository, we have covered stages till evaluation 
+
 **Stage 0** - <a href = "https://github.com/NancyJemimah/INFO7374_AlgorithmicDigitalMarketingTeam3/tree/master/Assignment%204%20-%20Recommendation%20System/notebooks/00_quick_start"> Quick Start </a> --> which gives the basic approach of how the content based recommendation is built
 
 **Stage 1** - <a href = "https://github.com/NancyJemimah/INFO7374_AlgorithmicDigitalMarketingTeam3/tree/master/Assignment%204%20-%20Recommendation%20System/notebooks/01_prepare_data"> Prepare the data </a> --> for most of the content based system, we are recommending to use chronological datas plit, in the notebook, there are other splitting techniques discussed too.
