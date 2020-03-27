@@ -4,9 +4,6 @@ This package (reco_utils) contains functions to simplify common tasks used when 
 
 See the [online documentation](https://readthedocs.org/projects/microsoft-recommenders/).
 
-## [AzureML](azureml)
-
-The AzureML submodule contains utilities to train, tune and operationalize recommendation systems at scale using AzureML.
 
 ## [Common](common)
 
@@ -23,48 +20,3 @@ There are dataloaders for several datasets. For example, the movielens module wi
 ```python
 df = movielens.load_pandas_df(size="100k")
 ```
-
-### Splitting Techniques
-
-Currently three methods are available for splitting datasets. All of them support splitting by user or item and filtering out minimal samples (for instance users that have not rated enough item, or items that have not been rated by enough users).
-
-- Random: this is the basic approach where entries are randomly assigned to each group based on the ratio desired
-- Chronological: this uses provided timestamps to order the data and selects a cut-off time that will split the desired ratio of data to train before that time and test after that time
-- Stratified: this is similar to random sampling, but the splits are stratified, for example if the datasets are split by user, the splitting approach will attempt to maintain the same set of items used in both training and test splits. The converse is true if splitting by item.
-
-## [Evaluation](evaluation)
-
-The evaluation submodule includes functionality for performing hyperparameter sweeps as well as calculating common recommender metrics directly in python or in a Spark environment using pyspark.
-
-Currently available metrics include:
-
-- Root Mean Squared Error
-- Mean Absolute Error
-- R<sup>2</sup>
-- Explained Variance
-- Precision at K
-- Recall at K
-- Normalized Discounted Cumulative Gain at K
-- Mean Average Precision at K
-- Area Under Curve
-- Logistic Loss
-
-## [Recommender](recommender)
-
-The recommender submodule contains implementations of various algorithms that can be used in addition to external packages to evaluate and develop new recommender system approaches. A description of all the algorithms can be found on [this table](../README.md#algorithms). Next a list of the algorithm utilities:
-
-* Cornac
-* DeepRec (includes xDeepFM and DKN)
-* FastAI
-* LightGBM
-* NCF
-* RBM
-* RLRMC
-* SAR
-* Surprise
-* Vowpal Wabbit (VW)
-* Wide&Deep
-
-## [Tuning](tuning)
-
-This submodule contains utilities for performing hyperparameter tuning.

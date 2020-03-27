@@ -6,6 +6,24 @@ In this directory, a notebook is provided to illustrate evaluating models using 
 | --- | --- | 
 | [evaluation](evaluation.ipynb) | Examples of different rating and ranking metrics in Python+CPU and PySpark environments.
 
+## [Evaluation](evaluation)
+
+The evaluation submodule includes functionality for performing hyperparameter sweeps as well as calculating common recommender metrics directly in python or in a Spark environment using pyspark.
+
+Currently available metrics include:
+
+- Root Mean Squared Error
+- Mean Absolute Error
+- R<sup>2</sup>
+- Explained Variance
+- Precision at K
+- Recall at K
+- Normalized Discounted Cumulative Gain at K
+- Mean Average Precision at K
+- Area Under Curve
+- Logistic Loss
+
+
 Two approaches for evaluating model performance are demonstrated along with their respective metrics.
 1. Rating Metrics: These are used to evaluate how accurate a recommender is at predicting ratings that users gave to items
     * Root Mean Square Error (RMSE) - measure of average error in predicted ratings
