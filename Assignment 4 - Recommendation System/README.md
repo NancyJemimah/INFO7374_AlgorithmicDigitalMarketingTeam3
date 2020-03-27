@@ -43,7 +43,8 @@ In this repository, we have covered stages till evaluation
 
 
 
-**Report Link** --> https://docs.google.com/document/d/1GVfmgDzT2O5c9bq6bB7PteKUJnCxw4R6JSxcEMjNBrk/edit#
+**Report Link** --> ![Snack Recommender - Prototype]( https://docs.google.com/document/d/1GVfmgDzT2O5c9bq6bB7PteKUJnCxw4R6JSxcEMjNBrk/edit#)
+
 
 # Citations: 
 
