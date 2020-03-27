@@ -37,6 +37,12 @@ In this repository, we have covered stages till evaluation
 
 **Stage 3** - <a href = "https://github.com/NancyJemimah/INFO7374_AlgorithmicDigitalMarketingTeam3/tree/master/Assignment%204%20-%20Recommendation%20System/notebooks/03_evaluate"> Evaluation Metrics </a> --> Notebooks discuss about various metrics used to evaluate the recommendation system 
 
+# Factorization Machine & Field Aware Factorization Machine 
+
+![Model](https://github.com/NancyJemimah/INFO7374_AlgorithmicDigitalMarketingTeam3/blob/master/Assignment%204%20-%20Recommendation%20System/images/FFM.png)
+
+
+
 **Report Link** --> https://docs.google.com/document/d/1GVfmgDzT2O5c9bq6bB7PteKUJnCxw4R6JSxcEMjNBrk/edit#
 
 # Citations: 
