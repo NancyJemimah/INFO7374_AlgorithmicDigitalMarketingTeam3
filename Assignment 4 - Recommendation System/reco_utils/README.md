@@ -4,9 +4,6 @@ This package (reco_utils) contains functions to simplify common tasks used when 
 
 See the [online documentation](https://readthedocs.org/projects/microsoft-recommenders/).
 
-## [AzureML](azureml)
-
-The AzureML submodule contains utilities to train, tune and operationalize recommendation systems at scale using AzureML.
 
 ## [Common](common)
 
@@ -48,23 +45,3 @@ Currently available metrics include:
 - Mean Average Precision at K
 - Area Under Curve
 - Logistic Loss
-
-## [Recommender](recommender)
-
-The recommender submodule contains implementations of various algorithms that can be used in addition to external packages to evaluate and develop new recommender system approaches. A description of all the algorithms can be found on [this table](../README.md#algorithms). Next a list of the algorithm utilities:
-
-* Cornac
-* DeepRec (includes xDeepFM and DKN)
-* FastAI
-* LightGBM
-* NCF
-* RBM
-* RLRMC
-* SAR
-* Surprise
-* Vowpal Wabbit (VW)
-* Wide&Deep
-
-## [Tuning](tuning)
-
-This submodule contains utilities for performing hyperparameter tuning.
